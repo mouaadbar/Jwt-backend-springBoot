@@ -1,4 +1,4 @@
-package com.example.JwtPractice.service;
+package com.example.JwtPractice.services;
 
 import com.example.JwtPractice.dto.RoleDto;
 
